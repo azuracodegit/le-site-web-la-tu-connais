@@ -108,7 +108,7 @@ export default function About() {
                   className="relative h-[32rem] w-full overflow-hidden rounded-lg bg-white"
                 >
                   <img
-                    src="/nael.jpg"
+                    src="/le-site-web-la-tu-connais/nael.jpg"
                     alt="Photo de Naël"
                     className="h-full w-full object-cover object-center transition-transform duration-700 group-hover:scale-110"
                   />
@@ -134,7 +134,7 @@ export default function About() {
                   className="relative h-[32rem] w-full overflow-hidden rounded-lg bg-white"
                 >
                   <img
-                    src="/IMG_4512.jpeg"
+                    src="/le-site-web-la-tu-connais/IMG_4512.jpeg"
                     alt="Photo de Baptiste"
                     className="h-full w-full object-cover object-center transition-transform duration-700 group-hover:scale-110"
                   />
